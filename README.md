@@ -22,6 +22,8 @@ We have the entire sigma lab at our disposal on this one. While we will likely n
 
 ### Initial Design
 
+![img_5338](https://user-images.githubusercontent.com/42876255/52437530-1cc41280-2ae5-11e9-8d09-184b5708fa81.JPG)
+
 ### Milestone Schedule
 
 * 2/1/19: By the end of our first week, we will have made a decision on what we're going to do. We need to weigh a lot of options and pick something that is both ambitious and realistic.
