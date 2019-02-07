@@ -13,9 +13,9 @@ We have the entire sigma lab at our disposal on this one. While we will likely n
 ### Brainstorming
 
 * Rocket :kissing:
-* Hang Glider
-* Kite
-* Cannon
+* Hang Glider :smirk:
+* Kite :confused:
+* Cannon :angry:
 * Bird :neutral_face:
 
 ### Solution
