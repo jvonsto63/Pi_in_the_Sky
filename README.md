@@ -12,7 +12,7 @@ We have the entire sigma lab at our disposal on this one. While we will likely n
 
 ### Brainstorming
 
-* Rocket
+* Rocket :kissing:
 * Hang Glider
 * Kite
 * Cannon
