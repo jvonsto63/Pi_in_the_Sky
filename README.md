@@ -22,7 +22,6 @@ We have the entire sigma lab at our disposal on this one. While we will likely n
 
 ### Initial Design
 
-![img_5338](https://user-images.githubusercontent.com/42876255/52437530-1cc41280-2ae5-11e9-8d09-184b5708fa81.JPG)
 
 ### Milestone Schedule
 
