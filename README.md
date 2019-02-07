@@ -16,7 +16,7 @@ We have the entire sigma lab at our disposal on this one. While we will likely n
 * Hang Glider
 * Kite
 * Cannon
-* Bird :neutral:
+* Bird :neutral_face:
 
 ### Solution
 
