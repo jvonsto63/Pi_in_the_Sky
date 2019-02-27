@@ -12,17 +12,19 @@ We have the entire sigma lab at our disposal on this one. While we will likely n
 
 ### Brainstorming
 
-* Rocket
-* Hang Glider
-* Kite
-* Cannon
-* Bird
+* Rocket :kissing:
+* Hang Glider :smirk:
+* Kite :confused:
+* Cannon :angry:
+* Bird :neutral_face:
 
 ### Solution
 
 We decided to go with the rocket. After much debate and research, we believed that the rocket project would provide just the right amount of ambition and doability. We had a little hesitancy simply because it was a popular choice among the other groups, but we are going to strive to make the best possible rocket while also being able to record accurate results.
 
 ### Initial Design
+
+![img_5338](https://user-images.githubusercontent.com/42876255/52437740-a378ef80-2ae5-11e9-91e2-f0e433286180.JPG)
 
 ### Milestone Schedule
 
@@ -37,4 +39,4 @@ We decided to go with the rocket. After much debate and research, we believed th
 * 3/29/19 
 * 4/5/19 
 * 4/12/19 
-* 4/19/19
+* 4/19/19 :laughing:
