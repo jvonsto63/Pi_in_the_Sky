@@ -20,7 +20,7 @@ We have the entire sigma lab at our disposal on this one. While we will likely n
 
 ### Solution
 
-We decided to go with the rocket. After much debate and research, we believed that the rocket project would provide just the right amount of ambition and doability. We had a little hesitancy simply because it was a popular choice among the other groups, but we are going to strive to make the best possible rocket while also being able to record accurate results.
+We decided to go with the rocket. After much debate and research, we came to the conclusion that the rocket project would provide just the right amount of ambition and doability. We had a little hesitancy simply because it was a popular choice among the other groups, but we are going to strive to make the best possible rocket while also being able to record accurate results.
 
 ### Initial Design
 
