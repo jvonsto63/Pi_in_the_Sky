@@ -10,6 +10,23 @@ The goal of this project is in the name. We want to get our Raspberry Pi in the 
 
 We have the entire sigma lab at our disposal on this one. While we will likely need to use a variety of different things, it's important that we don't simply waste materials as a lot of the stuff in here is pretty expensive. We want to make this as efficient as possible. The other big constraint is time. Although it seems like we have a lot of time, it's going to fly by, and if we aren't careful, we won't get much accomplished.
 
+#### Materials
+
+* Proper plastic bottles
+* Polyurethane based adhesive
+* Sand paper
+* Knife
+* Carbon Fiber or Fiber Glass
+* Plastic gloves
+* Some type of resin
+* Tommy timer
+* Parachute
+* 8mm Plywood
+* Assortment of pipe parts
+* Spray paint (optional)
+* Hose
+* Air pump (of some sort)
+
 ### Brainstorming
 
 * Rocket :kissing:
@@ -40,3 +57,10 @@ We decided to go with the rocket. After much debate and research, we came to the
 * 4/5/19 
 * 4/12/19 
 * 4/19/19 :laughing:
+
+### Revised Solution
+
+So we're gonna really amp it up. We figured that because this will be our last project at CHS, we want to make it special. We decided to turn this into a water rocket capable of flying pretty darn high. It's gonna take a lot of work and a ton of precision but we want to be ambitious and go for it.
+
+
+## Preliminary Design Sketches
