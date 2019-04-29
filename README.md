@@ -45,18 +45,18 @@ We decided to go with the rocket. After much debate and research, we came to the
 
 ### Milestone Schedule
 
-* 2/1/19: By the end of our first week, we will have made a decision on what we're going to do. We need to weigh a lot of options and pick something that is both ambitious and realistic.
-* 2/8/19: We will have finished our initial planning, and we will have a solid design of what we want our product to look like. 
-* 2/15/19: We will have carefully selected the appropriate material that we want our rocket to be made out of, and we will have some progress going with the actual design of the thing.
-* 2/22/19: This week will be spent continung our design in Solidworks, and we should also have some progress on the Pi coding part.
-* 3/1/19: We should be closing in on the finish of our rocket design, and hopefully we will be able to start putting together a few pieces.
-* 3/8/19:  
-* 3/15/19
-* 3/22/19 
-* 3/29/19 
-* 4/5/19 
-* 4/12/19 
-* 4/19/19 :laughing:
+* 3/1/19: By the end of our first week, we will have made a decision on what we're going to do. We need to weigh a lot of options and pick something that is both ambitious and realistic.
+* 3/8/19: We will have finished our initial planning, and we will have a solid design of what we want our product to look like. 
+* 3/15/19: We will have carefully selected the appropriate material that we want our rocket to be made out of, and we will have some progress going with the actual design of the thing.
+* 3/22/19: This week will be spent continung our design in Solidworks, and we should also have some progress on the Pi coding part.
+* 4/1/19: We should be closing in on the finish of our rocket design, and hopefully we will be able to start putting together a few pieces.
+* 4/8/19:  
+* 4/15/19
+* 4/22/19 
+* 4/29/19 
+* 5/5/19 
+* 5/12/19 
+* 5/19/19 :laughing:
 
 ### Revised Solution
 
