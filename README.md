@@ -45,18 +45,16 @@ We decided to go with the rocket. After much debate and research, we came to the
 
 ### Milestone Schedule
 
-* 3/1/19: By the end of our first week, we will have made a decision on what we're going to do. We need to weigh a lot of options and pick something that is both ambitious and realistic.
-* 3/8/19: We will have finished our initial planning, and we will have a solid design of what we want our product to look like. 
-* 3/15/19: We will have carefully selected the appropriate material that we want our rocket to be made out of, and we will have some progress going with the actual design of the thing.
-* 3/22/19: This week will be spent continung our design in Solidworks, and we should also have some progress on the Pi coding part.
-* 4/1/19: We should be closing in on the finish of our rocket design, and hopefully we will be able to start putting together a few pieces.
-* 4/8/19:  do it
-* 4/15/19 just do it
-* 4/22/19 do itttt
-* 4/29/19 just
-* 5/5/19 do
-* 5/12/19 it
-* 5/19/19 :laughing:
+* 3/8/19: By the end of our first week, we will have made a decision on what we're going to do. We need to weigh a lot of options and pick something that is both ambitious and realistic.
+* 3/15/19: We will have finished our initial planning, and we will have a solid design of what we want our product to look like. 
+* 3/22/19: We will have carefully selected the appropriate material that we want our rocket to be made out of, and we will have some progress going with the actual design of the thing.
+* 3/29/19: This week will be spent continung our design in Solidworks, and we should also have some progress on the Pi coding part.
+* 4/12/19: Now that we have adjusted our ideas a bit, we will need some more time. At this point, we should putting together a prototype.
+* 4/19/19: We may have to go out and buy some bottles to make the prototype.
+* 4/26/19: We should be designing some new and refined parts in Solidworks and maybe getting a print or two in.
+* 5/3/19: Time to start putting together the prototype. As of now we are not sure we will include the parachute or not.
+* 5/10/19: Testing week for the prototype. Once this is done we can start on the real thing.
+* 5/20/19 :laughing:
 
 ### Revised Solution
 
