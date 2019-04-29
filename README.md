@@ -50,12 +50,12 @@ We decided to go with the rocket. After much debate and research, we came to the
 * 3/15/19: We will have carefully selected the appropriate material that we want our rocket to be made out of, and we will have some progress going with the actual design of the thing.
 * 3/22/19: This week will be spent continung our design in Solidworks, and we should also have some progress on the Pi coding part.
 * 4/1/19: We should be closing in on the finish of our rocket design, and hopefully we will be able to start putting together a few pieces.
-* 4/8/19:  
-* 4/15/19
-* 4/22/19 
-* 4/29/19 
-* 5/5/19 
-* 5/12/19 
+* 4/8/19:  do it
+* 4/15/19 just do it
+* 4/22/19 do itttt
+* 4/29/19 just
+* 5/5/19 do
+* 5/12/19 it
 * 5/19/19 :laughing:
 
 ### Revised Solution
