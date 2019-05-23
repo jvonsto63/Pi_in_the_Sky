@@ -61,4 +61,8 @@ We decided to go with the rocket. After much debate and research, we came to the
 So we're gonna really amp it up. We figured that because this will be our last project at CHS, we want to make it special. We decided to turn this into a water rocket capable of flying pretty darn high. It's gonna take a lot of work and a ton of precision but we want to be ambitious and go for it.
 
 
-## Preliminary Design Sketches
+## Mark I
+
+
+
+## Ark II
