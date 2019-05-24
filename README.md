@@ -63,6 +63,6 @@ So we're gonna really amp it up. We figured that because this will be our last p
 
 ## Mark I
 
- So, our first prototype was given the name Mark I, inspired by the GOAT Tony Stark. First, we did lots of research regarding local bottles to use. We ended up settling for a sparkling water at a local Walmart, which happened to also taste very good.
+ So, our first prototype was given the name Mark I, inspired by the GOAT Tony Stark. First, we did lots of research regarding local bottles to use. We ended up settling for a sparkling water at a local Walmart, which happened to also taste very good. Once we got the bottles in the lab, we got started on working. We cut the bottles according to our plan. One was cut on both sides, while the other to still had the bottle cap attached. We then used a bowl to hold water whiched we microwaved to a temperature that was hot enough to shrink the plastic. The idea was to shrink one side of the plastic to slot it into the other bottle, and then glue the joints together, and then tape. We executed this almost perfectly, except for one end of the bottle which we shrunk a bit to much so it had some irregularities. 
 
 ## Ark II
