@@ -63,6 +63,6 @@ So we're gonna really amp it up. We figured that because this will be our last p
 
 ## Mark I
 
-
+ So, our first prototype was given the name Mark I, inspired by the GOAT Tony Stark. First, we did lots of research regarding local bottles to use. We ended up settling for a sparkling water at a local Walmart, which happened to also taste very good.
 
 ## Ark II
