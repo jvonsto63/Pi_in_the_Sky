@@ -1,4 +1,4 @@
-# Pi in the Sky
+# PI IN THE SKY
 
 ## Planning
 
@@ -60,13 +60,15 @@ We decided to go with the rocket. After much debate and research, we came to the
 
 So we're gonna really amp it up. We figured that because this will be our last project at CHS, we want to make it special. We decided to turn this into a water rocket capable of flying pretty darn high. It's gonna take a lot of work and a ton of precision but we want to be ambitious and go for it. We are also planning on doing all of the designing before the actual coding. We want to have a fully functional rocket before the code and pi are involved to ensure the safety of the pi.
 
-## Launching
+## Building Time
+
+### Launching
 
 Lucky enough for us, people had already made a rocket launch stand that we could use, however, we made a few edits of our own to make things easier on ourselves. We figured there had to be a way to launch the rocket without being directly under the rocket during blast off. So, we got a super long piece of string and used it like the reins for horses. We attached it to the quick release hose adapter and then drilled in a U-shaped piece out of PVC. The point of this piece was to have the string run through it so that at longer distances from the launch system, the string would be able to pull down on of the quick release.
 
 In addition to this, we wanted to make sure our rocket went straight up rather than launching to the side or at any harsh angles. This led us to think about NASA launching rockets, which made us think of the things on the side which help guide the rocket. So, we used three different wooden poles (sharpened at the ends to stick into the ground). We drilled holes in the side of those poles at a decent height that would line up with the bottle. In those holes, we put small chop-stickm things through it with bent pieces of cardboard stuck to the end, uniform with the outer edge of the bottle. Pushing and pulling the chop sticks made them adjustable so they could directly touch the rocket no matter the rocket's varying distance from the poles position in the ground.
 
-## Mark I
+### Mark I
 
  So, our first prototype was given the name Mark I, inspired by the GOAT Tony Stark. First, we did lots of research regarding local bottles to use. We ended up settling for a sparkling water at a local Walmart, which happened to also taste very good. Once we got the bottles in the lab, we got started on working. We cut the bottles according to our plan. One was cut on both sides, while the other to still had the bottle cap attached. We then used a bowl to hold water whiched we microwaved to a temperature that was hot enough to shrink the plastic. The idea was to shrink one side of the plastic to slot it into the other bottle, and then glue the joints together, and then tape. We executed this almost perfectly, except for one end of the bottle which we shrunk a bit too much so it had some irregularities. INSERT PICTURE WHICH IDK HOW TO DO! The adhesive we used to glue the joints together was a Gorilla Glue Epoxy. After applying it to our rocket, not without getting it stuck on ourselves, we let it dry for 24 hours. Then the two of us went our separate ways on Solidworks: Joe worked on a cap for the rocket, while I designed the fins.
  
@@ -78,12 +80,12 @@ In addition to this, we wanted to make sure our rocket went straight up rather t
  
  Earlier on in the process, Karl also introduced us to the rocket box, along with other equipment in the back room. This had a bunch of different equipment that is very useful for launching a rocket. For instance, a hose clamp to tighten the nossle(another thing found in the magic box) and a quick release hose adapter. We didn't end up using the nossle and instead bought two of our own that better fit over the actual bottle cap.
  
-## Ark II
+### Ark II
 
 You may have noticed that the number went up one and we lost a letter. Well this wasn't really planned. We accidentally covered up the letter M when giving it more duct tape, so we improvised and decided that we would take off a letter and add a number for each rocket. 
 
-## Rk III
+### Rk III
 
-## K IV
+### K IV
 
-## V
+### V
