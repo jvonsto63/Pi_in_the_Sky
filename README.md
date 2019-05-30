@@ -58,8 +58,13 @@ We decided to go with the rocket. After much debate and research, we came to the
 
 ### Revised Solution
 
-So we're gonna really amp it up. We figured that because this will be our last project at CHS, we want to make it special. We decided to turn this into a water rocket capable of flying pretty darn high. It's gonna take a lot of work and a ton of precision but we want to be ambitious and go for it.
+So we're gonna really amp it up. We figured that because this will be our last project at CHS, we want to make it special. We decided to turn this into a water rocket capable of flying pretty darn high. It's gonna take a lot of work and a ton of precision but we want to be ambitious and go for it. We are also planning on doing all of the designing before the actual coding. We want to have a fully functional rocket before the code and pi are involved to ensure the safety of the pi.
 
+## Launching
+
+Lucky enough for us, people had already made a rocket launch stand that we could use, however, we made a few edits of our own to make things easier on ourselves. We figured there had to be a way to launch the rocket without being directly under the rocket during blast off. So, we got a super long piece of string and used it like the reins for horses. We attached it to the quick release hose adapter and then drilled in a U-shaped piece out of PVC. The point of this piece was to have the string run through it so that at longer distances from the launch system, the string would be able to pull down on of the quick release.
+
+In addition to this, we wanted to make sure our rocket went straight up rather than launching to the side or at any harsh angles. This led us to think about NASA launching rockets, which made us think of the things on the side which help guide the rocket. So, we used three different wooden poles (sharpened at the ends to stick into the ground). We drilled holes in the side of those poles at a decent height that would line up with the bottle. In those holes, we put small chop-stickm things through it with bent pieces of cardboard stuck to the end, uniform with the outer edge of the bottle. Pushing and pulling the chop sticks made them adjustable so they could directly touch the rocket no matter the rocket's varying distance from the poles position in the ground.
 
 ## Mark I
 
@@ -71,6 +76,14 @@ So we're gonna really amp it up. We figured that because this will be our last p
  
  Now it was time for the tape job. We wrapped a couple layers of duct tape around the joints where we had already used epoxy. Then, for extra security, and looks, we wrapped the nose, or cap, of our rocket with electrical tape. Once finished with the important tape job, we branded the side of it with its name: Mark I.
  
-
-
+ Earlier on in the process, Karl also introduced us to the rocket box, along with other equipment in the back room. This had a bunch of different equipment that is very useful for launching a rocket. For instance, a hose clamp to tighten the nossle(another thing found in the magic box) and a quick release hose adapter. We didn't end up using the nossle and instead bought two of our own that better fit over the actual bottle cap.
+ 
 ## Ark II
+
+You may have noticed that the number went up one and we lost a letter. Well this wasn't really planned. We accidentally covered up the letter M when giving it more duct tape, so we improvised and decided that we would take off a letter and add a number for each rocket. 
+
+## Rk III
+
+## K IV
+
+## V
