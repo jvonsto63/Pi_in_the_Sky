@@ -89,6 +89,8 @@ In addition to this, we wanted to make sure our rocket went straight up rather t
 
 You may have noticed that the number went up one and we lost a letter. Well this wasn't really planned. We accidentally covered up the letter M when giving it more duct tape, so we improvised and decided that we would take off a letter and add a number for each rocket. The only real difference on this model was that added a bottom-up bottle to the top instead of the original nose. We glued this on, and although it wasn't pretty, we rrally just wanted to get something in the air.
 
+![ArkII](https://github.com/amorela10/Pi_in_the_Sky/blob/master/IMG_0276%5B1%5D.JPG)
+
 We used epoxy as the adhesive, but since we wanted to get moving along with the next portion of the project, we decided to only let it dry for a few hours instead of the recommended 24 for a full cure. This probably wasn't all that beneficial, as once we got to 50 psi on our pressure test, our new bottle became detached. So, after several glue jobs and many problems we didn't get to launch anything and got up to a measly 50 psi for out prototype. But hey, it was a prototype so we felt that with our lessons learned we could build a better final rocket. 
 
 ### Rk III
@@ -105,7 +107,7 @@ We cut open a little slot in the top compartment so that we could plug in the ba
 
 ## CODE
 
-[Rocket Code](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/rocket.py)
+![Rocket Code](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/rocket.py)
 
 ## Problems
 
