@@ -125,4 +125,4 @@ We cut open a little slot in the top compartment so that we could plug in the ba
 
 ![data](https://github.com/amorela10/Pi_in_the_Sky/blob/master/rocket%20data%202.PNG)
 
-[Flight]()
+![Flight](https://github.com/amorela10/Pi_in_the_Sky/blob/master/IMG_0287%5B1%5D.MOV)
