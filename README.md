@@ -98,3 +98,7 @@ So when, we came back we went straight to the pressure test. All was going well,
 This turned out to be a true masterpiece. Composed of only one pressureized bottle, it would take a lot to screw this one up. No bonds, no noses, just one cylider of plastic holding it all in. On tip of that we used duct tape to attach a compartment for the pi. This was actually larger than the pressurize portion, which probably was not all that good for balance in the air, but at this point we didn't really care. We just wanted something to fly in the air.
 
 We cut open a little slot in the top compartment so that we could plug in the battery when the time came, and the plan would just be to duct tape it shut once everything was in. Again, not all that pretty, but it worked to a degree. On the first launch we got up to 60 psi and were pleasantly suprised with its rather clean flight as it went maybe 60-80 feet in the air. Yay. Something in the air. Unfortunately, no data was recorded so we had to give it another go. The second launch got up to 80 psi and and probably went about the same height as the first with a much less stable flight path. But, we got data, so that's all that mattered.
+
+## CODE
+
+[Rocket Code](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/rocket.py)
