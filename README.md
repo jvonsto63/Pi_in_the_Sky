@@ -80,6 +80,7 @@ In addition to this, we wanted to make sure our rocket went straight up rather t
  Now it was time for the tape job. We wrapped a couple layers of duct tape around the joints where we had already used epoxy. Then, for extra security, and looks, we wrapped the nose, or cap, of our rocket with electrical tape. Once finished with the important tape job, we branded the side of it with its name: Mark I.
  
  Earlier on in the process, Karl also introduced us to the rocket box, along with other equipment in the back room. This had a bunch of different equipment that is very useful for launching a rocket. For instance, a hose clamp to tighten the nossle(another thing found in the magic box) and a quick release hose adapter. We didn't end up using the nossle and instead bought two of our own that better fit over the actual bottle cap.
+![Mark I](https://github.com/amorela10/Pi_in_the_Sky/blob/master/IMG_0249%5B1%5D.JPG)
  
 ### Ark II
 
