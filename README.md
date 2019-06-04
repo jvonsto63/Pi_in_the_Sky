@@ -99,6 +99,8 @@ Same idea here, we cut up four bottles, heated up the ends, sanded them and put 
 
 So when, we came back we went straight to the pressure test. All was going well, but at around 65 psi, a big boom happened and on of the seals broke. This was pretty sucky, because it meant we were not going to be able to launch a full blown rocket simply because we didn't have the time to let more glue dry. Poor Rk III... such a short life.
 
+![blownRocket](https://github.com/amorela10/Pi_in_the_Sky/blob/master/IMG_0280%5B1%5D.JPG)
+
 ### K IV
 
 This turned out to be a true masterpiece. Composed of only one pressureized bottle, it would take a lot to screw this one up. No bonds, no noses, just one cylider of plastic holding it all in. On tip of that we used duct tape to attach a compartment for the pi. This was actually larger than the pressurize portion, which probably was not all that good for balance in the air, but at this point we didn't really care. We just wanted something to fly in the air.
@@ -107,7 +109,7 @@ We cut open a little slot in the top compartment so that we could plug in the ba
 
 ## CODE
 
-![Rocket Code](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/rocket.py)
+[Rocket Code](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/rocket.py)
 
 ## Problems
 
