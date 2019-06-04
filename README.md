@@ -118,3 +118,7 @@ We cut open a little slot in the top compartment so that we could plug in the ba
 * Again, while we are not exactly sure of its impact, the polyurethane we used was not specifically meant for bonding plastic, as it was designated "roof and flashing". It's hard to imagine that polyurethane meant for plastic would not have done considerably better in keeping in air.
 * Air likes to be sneaky. It's best to do literally everything in your power to secure a bond, possible leak before testing it against the evil wrath of air.
 * The code. OMG the code. We had a stumper of an issue here. While when plugged into the computer, our pi would flawlessly record and store height data into a file, as soon as we used battery power, it would make the file but leave it blank. We tried about 100 different things for this and none of them seemed to work. Some of our ideas were using rc local instead of bash rc, using a startup file , and a billion other things. In the end, the magic touch was simply Dr. Shields accessing our pi remotely from his phone after it recorded data. For some reason, him looking at it from his phone made the pi seem to remember what it just did and keep the data in the file. Then we could go back into the computer and see what was recorded. This is what we were finally able to do on our last launch, and thankfully, after a scare resulting from misleading times, we got data from our flight.
+
+## Data
+
+![data](https://github.com/amorela10/Pi_in_the_Sky/blob/master/rocket%20data%202.PNG)
