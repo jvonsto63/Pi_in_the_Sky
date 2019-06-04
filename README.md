@@ -107,6 +107,8 @@ This turned out to be a true masterpiece. Composed of only one pressureized bott
 
 We cut open a little slot in the top compartment so that we could plug in the battery when the time came, and the plan would just be to duct tape it shut once everything was in. Again, not all that pretty, but it worked to a degree. On the first launch we got up to 60 psi and were pleasantly suprised with its rather clean flight as it went maybe 60-80 feet in the air. Yay. Something in the air. Unfortunately, no data was recorded so we had to give it another go. The second launch got up to 80 psi and and probably went about the same height as the first with a much less stable flight path. But, we got data, so that's all that mattered.
 
+[Video of Flight](https://github.com/amorela10/Pi_in_the_Sky/blob/master/IMG_0287%5B1%5D.MOV)
+
 ## CODE
 
 [Rocket Code](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/rocket.py)
@@ -124,5 +126,3 @@ We cut open a little slot in the top compartment so that we could plug in the ba
 [Raw Data](https://github.com/amorela10/Engineering_4_Notebook/blob/master/Python/file-2019-05-31-10-36-51.txt)
 
 ![data](https://github.com/amorela10/Pi_in_the_Sky/blob/master/rocket%20data%202.PNG)
-
-![Flight](https://github.com/amorela10/Pi_in_the_Sky/blob/master/IMG_0287%5B1%5D.MOV)
