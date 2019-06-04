@@ -45,16 +45,17 @@ We decided to go with the rocket. After much debate and research, we came to the
 
 ### Milestone Schedule
 
-* 3/8/19: By the end of our first week, we will have made a decision on what we're going to do. We need to weigh a lot of options and pick something that is both ambitious and realistic.
-* 3/15/19: We will have finished our initial planning, and we will have a solid design of what we want our product to look like. 
-* 3/22/19: We will have carefully selected the appropriate material that we want our rocket to be made out of, and we will have some progress going with the actual design of the thing.
-* 3/29/19: This week will be spent continung our design in Solidworks, and we should also have some progress on the Pi coding part.
-* 4/12/19: Now that we have adjusted our ideas a bit, we will need some more time. At this point, we should putting together a prototype.
-* 4/19/19: We may have to go out and buy some bottles to make the prototype.
-* 4/26/19: We should be designing some new and refined parts in Solidworks and maybe getting a print or two in.
-* 5/3/19: Time to start putting together the prototype. As of now we are not sure we will include the parachute or not.
-* 5/10/19: Testing week for the prototype. Once this is done we can start on the real thing.
-* 5/20/19 :laughing:
+* 3/15/19: By the end of our first week, we will have made a decision on what we're going to do. We need to weigh a lot of options and pick something that is both ambitious and realistic.
+* 3/22/19: We will have finished our initial planning, and we will have a solid design of what we want our product to look like. 
+* 3/29/19: We will have carefully selected the appropriate material that we want our rocket to be made out of, and we will have some progress going with the actual design of the thing.
+* 4/12/19: This week will be spent continung our design in Solidworks, and we should also have some progress on the Pi coding part.
+* 4/19/19: Now that we have adjusted our ideas a bit, we will need some more time. At this point, we should putting together a prototype.
+* 4/26/19: We may have to go out and buy some bottles to make the prototype.
+* 4/3/19: We should be designing some new and refined parts in Solidworks and maybe getting a print or two in.
+* 5/10/19: Time to start putting together the prototype. As of now we are not sure we will include the parachute or not.
+* 5/17/19: Testing week for the prototype. Once this is done we can start on the real thing.
+* 5/24/19: We will be putting together the final rocket and we writing the code for the pi. This will be after senior release, so we will be pretty much spending our entire day in the Sigma Lab.
+* 5/31/19: We will successfully launch our beautiful rocket, and of course there will be no problems, and our pi will record some flawless flight data. Then, we will finish up the documentation. DONE WITH SCHOOL.
 
 ### Revised Solution
 
@@ -82,10 +83,18 @@ In addition to this, we wanted to make sure our rocket went straight up rather t
  
 ### Ark II
 
-You may have noticed that the number went up one and we lost a letter. Well this wasn't really planned. We accidentally covered up the letter M when giving it more duct tape, so we improvised and decided that we would take off a letter and add a number for each rocket. 
+You may have noticed that the number went up one and we lost a letter. Well this wasn't really planned. We accidentally covered up the letter M when giving it more duct tape, so we improvised and decided that we would take off a letter and add a number for each rocket. The only real difference on this model was that added a bottom-up bottle to the top instead of the original nose. We glued this on, and although it wasn't pretty, we rrally just wanted to get something in the air.
+
+We used epoxy as the adhesive, but since we wanted to get moving along with the next portion of the project, we decided to only let it dry for a few hours instead of the recommended 24 for a full cure. This probably wasn't all that beneficial, as once we got to 50 psi on our pressure test, our new bottle became detached. So, after several glue jobs and many problems we didn't get to launch anything and got up to a measly 50 psi for out prototype. But hey, it was a prototype so we felt that with our lessons learned we could build a better final rocket. 
 
 ### Rk III
 
+Same idea here, we cut up four bottles, heated up the ends, sanded them and put them together. However, instead of using the epoxy, this time, we used a polyurethane based adhesive. This was believed to be some more heavy duty stuff, as it's pretty much just just rubber glue. Only not so fun part about it was that it takes a week to fully cure. While we didn't have the time to let it sit a whole week, we were able to, with the help of memorial day weekend, give it a good five days to form a bond. 
+
+So when, we came back we went straight to the pressure test. All was going well, but at around 65 psi, a big boom happened and on of the seals broke. This was pretty sucky, because it meant we were not going to be able to launch a full blown rocket simply because we didn't have the time to let more glue dry. Poor Rk III... such a short life.
+
 ### K IV
 
-### V
+This turned out to be a true masterpiece. Composed of only one pressureized bottle, it would take a lot to screw this one up. No bonds, no noses, just one cylider of plastic holding it all in. On tip of that we used duct tape to attach a compartment for the pi. This was actually larger than the pressurize portion, which probably was not all that good for balance in the air, but at this point we didn't really care. We just wanted something to fly in the air.
+
+We cut open a little slot in the top compartment so that we could plug in the battery when the time came, and the plan would just be to duct tape it shut once everything was in. Again, not all that pretty, but it worked to a degree. On the first launch we got up to 60 psi and were pleasantly suprised with its rather clean flight as it went maybe 60-80 feet in the air. Yay. Something in the air. Unfortunately, no data was recorded so we had to give it another go. The second launch got up to 80 psi and and probably went about the same height as the first with a much less stable flight path. But, we got data, so that's all that mattered.
